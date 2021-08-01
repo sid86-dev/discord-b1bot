@@ -31,7 +31,7 @@ async def on_message(message):
   rs.close()
 
 
-my_secret = 'TOKEN'
+my_secret = 'ODcxNDE4NzY5NDIyMDMyOTU3.YQbB-A.f1xEDYKKBHSLBIChKBr2RI6kRks'
 
-keep_alive()
+# keep_alive()
 client.run(my_secret)
